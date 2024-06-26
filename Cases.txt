@@ -1,0 +1,4 @@
+camelCase 
+snake_case
+PascalCase
+kebab-case
